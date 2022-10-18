@@ -1,0 +1,20 @@
+button.numberBtn {width: 34px;padding: 7px 0;margin: 1px 0;}
+
+div#calculatorBox {
+    width: 152px;
+}
+
+label#enteredValues {
+    height: 50px;
+    padding: 1px;
+    display: block;
+    border: 1px solid;
+    border-bottom: 0;
+}
+
+label#result {
+    height: 20px;
+    display: block;
+    border: 1px solid;
+    border-top: 0;
+}
